@@ -1,2 +1,6 @@
 # MachineLearning
-Documentación de la clase de machine learning
+## Material de clase
+Documentación utilizada en la clase de machine learning
+- _ejemplos aplicados_,
+- **Librerias de `Python`**,
+- etc.
